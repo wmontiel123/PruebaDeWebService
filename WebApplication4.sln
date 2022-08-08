@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication4", "WebApplication4.csproj", "{F9386D5C-DEC7-4F10-B0E8-2859A39B8430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceDatos.Logica", "..\WebServiceDatos.Logica\WebServiceDatos.Logica.csproj", "{5011DF10-8CA5-4656-9E47-2AF2770D1807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9386D5C-DEC7-4F10-B0E8-2859A39B8430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9386D5C-DEC7-4F10-B0E8-2859A39B8430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9386D5C-DEC7-4F10-B0E8-2859A39B8430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9386D5C-DEC7-4F10-B0E8-2859A39B8430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5011DF10-8CA5-4656-9E47-2AF2770D1807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5011DF10-8CA5-4656-9E47-2AF2770D1807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5011DF10-8CA5-4656-9E47-2AF2770D1807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5011DF10-8CA5-4656-9E47-2AF2770D1807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5140F43-E351-4946-8CAF-8D697314C994}
+	EndGlobalSection
+EndGlobal
